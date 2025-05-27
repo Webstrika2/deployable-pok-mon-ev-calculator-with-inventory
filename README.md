@@ -58,24 +58,6 @@ This project runs directly in the browser without any build steps or framework d
 
 That's it! The application is entirely client-side.
 
-## 🚀 Deploying to GitHub Pages
-
-1.  Ensure your repository has an `index.html` file at the root (or in a `/docs` folder, depending on your Pages settings). This project structure is already set up for this.
-2.  Go to your repository settings on GitHub.
-3.  Navigate to the "Pages" section.
-4.  Choose the branch to deploy from (e.g., `main` or `master`).
-5.  Select the folder (usually `/root`).
-6.  Save. GitHub Pages will build and deploy your site. It will provide you with a URL (e.g., `https://your-username.github.io/your-repository-name/`).
-
-## 📁 File Structure
-
-```
-.
-├── README.md       // This file
-├── index.html      // Main HTML entry point (loads app.js)
-├── app.js          // All JavaScript logic for the application
-└── metadata.json   // Application metadata for some hosting environments
-```
 
 ## ℹ️ Item Information
 
